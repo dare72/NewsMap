@@ -1,0 +1,29 @@
+html, body { 
+	height: 100%; 
+	width: 100%; 
+	margin: 0; 
+}
+
+#map {
+	height: 80%;
+	width: 100%;
+}
+
+h1 {
+	font-family: "Verdana";
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+div.page-title {
+	height: 100px;
+	width: 350px;
+	border-style: hidden;
+	position: relative;
+	left: 37%;
+}
+
+body {
+	background-color: rgb(150, 175, 175);
+}
